@@ -156,3 +156,4 @@ Please see the .env.example file inside the backend folder for more instructions
 cd backend
 npm start
 ```
+Peer Review : On the main/index page, it might be helpful to add a simple “sort by” or “filter by” option for the game titles (e.g., sorting alphabetically or by rating) so users can more easily browse and find what they’re looking for.
